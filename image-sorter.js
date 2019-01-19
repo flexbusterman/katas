@@ -1,6 +1,6 @@
 // Trying to solve a problem that I encountered myself. Please suggest improvements : )
 // The result should be an array of pages that contains big, wide, and small images according to following formula:
-// 2 big pictures, maximum 7 small pictures, and maximum one wide image
+// 2 big pictures, maximum 8 small pictures, and maximum one wide image
 // if the page contains one wide image it should contain 6 small, otherwise it should contain 7 small pictures
 // the first two and last two pictures in the array should not be big
 
