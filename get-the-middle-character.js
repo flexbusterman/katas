@@ -15,7 +15,6 @@ function getMiddle(string){
 	return result
 }
 
-
 console.log(assertEquals(getMiddle("test"), "es"))
 console.log(assertEquals(getMiddle("testing"), "t"))
 console.log(assertEquals(getMiddle("middle"), "dd"))
