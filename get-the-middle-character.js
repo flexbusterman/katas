@@ -4,7 +4,7 @@ const assertEquals = (a, b) => a == b
 
 function getMiddle(string){
 	let result = ''
-	let stringArray = string.split('')
+  let stringArray = string.split('')
 	let middle = Math.floor(stringArray.length / 2)
 	
 	if (stringArray.length % 2 == 0) {
